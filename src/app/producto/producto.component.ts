@@ -48,7 +48,7 @@ export class ProductoComponent {
   }
     showDialogCreate() {
       this.titulo="Crear Producto"
-      this.opc="Save";   
+      this.opc="Guardar";   
       this.op=0;
       this.visible = true; // Cambia la visibilidad del diálogo
     }
